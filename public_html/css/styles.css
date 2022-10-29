@@ -104,7 +104,7 @@ input {
 
 .regbtn {
     border-radius: 20px/20px;
-    border: none;
+    border-width: 5px;
 }
 
 .click {
