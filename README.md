@@ -3,4 +3,3 @@
 Akylbek kyzy Zhibek COM21B
 
 This is my midterm project about Japanese desserts
-
